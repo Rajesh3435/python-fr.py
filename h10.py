@@ -1,0 +1,5 @@
+a=input("enter the number\n")
+b=input("enter the second number\n")
+c=int(a)/int(b)
+d=int(c)
+print(d)
