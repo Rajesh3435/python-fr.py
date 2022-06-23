@@ -1,0 +1,7 @@
+tup=('a','bc',78,1.23)
+tup2=('d',78)
+print(tup)
+print(tup[1:3])
+print(tup[2:])
+print(tup*2)
+print(tup[3]*2)
